@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao perfil do Diogo Coelho😁
 <div>
- <a href="https://portfoliodiogo.netlify.app" target="_blank">Portfolio</a>
+ <a href="https://portfoliodiogo.netlify.app" target="_blank"><img align="center" alt="Js" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a>
 </div>
 
 <br>
