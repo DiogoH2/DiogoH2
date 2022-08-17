@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Diogo Coelho😁
 <div>
  <p>Portfolio</p>
- <a href=" https://portfoliodiogo.netlify.app" target="_blank"><img align="center" alt="Js" height="100" width="100" src="https://w7.pngwing.com/pngs/763/460/png-transparent-computer-icons-portfolio-portfolio-miscellaneous-photography-orange.png"></a>
+ <a href=" https://portfoliodiogo.netlify.app" target="_blank"><img align="center" alt="Js" height="100" width="100" src="https://st4.depositphotos.com/18664664/23990/v/450/depositphotos_239907972-stock-illustration-portfolio-icon-trendy-portfolio-logo.jpg"></a>
 </div>
 
 <br>
