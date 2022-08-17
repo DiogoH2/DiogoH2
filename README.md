@@ -1,8 +1,10 @@
 ## Bem-vindo(a) ao perfil do Diogo Coelho😁
 <div>
  <p>Portfolio</p>
- <a href=" https://portfoliodiogo.netlify.app" target="_blank"><img align="center" alt="Js" height="30" width="40"       src="https://w7.pngwing.com/pngs/763/460/png-transparent-computer-icons-portfolio-portfolio-miscellaneous-photography-orange.png"></a>
+ <a href=" https://portfoliodiogo.netlify.app" target="_blank"><img align="center" alt="Js" height="100" width="100" src="https://w7.pngwing.com/pngs/763/460/png-transparent-computer-icons-portfolio-portfolio-miscellaneous-photography-orange.png"></a>
 </div>
+
+<br>
 
  <div>
   <a href="https://github.com/DiogoH2">
